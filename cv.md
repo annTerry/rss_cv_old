@@ -38,10 +38,10 @@ let res=[];
 *** 
 ## Education
 * __2003-2009__ Saint-Petersburg State University of Aerospace Instrumentation
-** Software for computing complexes and computer-aided systems
-** Computer-aided systems of information processing and management
+    + Software for computing complexes and computer-aided systems
+    + Computer-aided systems of information processing and management
 * __1997 - 2002__ Saint-Petersburg State University of Water Communications
-** Financial and Credit
+    + Financial and Credit
 * __2001 - 2002__ MAOV. Web-developer course
 ***
 ## Work Experience
