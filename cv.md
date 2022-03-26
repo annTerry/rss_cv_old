@@ -1,16 +1,16 @@
 # Anna Kniazeva
+[foto](foto_m.jpg)
 ***
 ## Contact information
 * __Location:__ Saint-Petersburg, Russia
 * __Phone:__ +372 56361698
 * __E-mail:__ alattery@gmail.com
 * __Telegram:__ @annaKn
-* __GitHub:__ [https://github.com/annTerry](annTerry)
-* __LinkedIn:__ [https://www.linkedin.com/in/anna-kniazeva-23b732234/](Anna Kniazeva)
+* __GitHub:__ [annTerry](https://github.com/annTerry)
+* __LinkedIn:__ [Anna Kniazeva](https://www.linkedin.com/in/anna-kniazeva-23b732234/)
 ***
 ## About Me:
-Web-developer with experience and ability to work with old projects, foreign and legacy code seeking for Junior Frontend develops position.  I have been programming from my childhood, and now have more then 15 years of experience in codding on different languages. I'm very faithful to company 
-***
+Web-developer with experience and ability to work with old projects, foreign and legacy code seeking for Junior Frontend develops position.  I have been programming from my childhood, and now have more then 15 years of experience in codding on different languages. 
 ## Skills:
 * HTML
 * CSS
@@ -22,7 +22,7 @@ Web-developer with experience and ability to work with old projects, foreign and
 * Adobe Photoshop, Adobe Premiere
 ***
 ## Code example:
-__Split Strings__ kata from Codewars: _Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_')._
+__Split Strings__ kata from Codewars: _Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore._
 ```
 function solution(str){
 let res=[];
@@ -46,10 +46,11 @@ let res=[];
 ***
 ## Work Experience
 * __2008 - Present:__ Favor-IT, Web-developer
-+ [https://web.archive.org/web/20171002012320/http://cikv.ru/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%BE%D0%B4%D1%8B_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3](Cikv.ru in Web.archive)
++ [Cikv.ru in Web.archive](https://web.archive.org/web/20171002012320/http://cikv.ru/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%BE%D0%B4%D1%8B_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)
 * __2002 - 2008:__ DiscTrade, Content Manager
-+ [https://web.archive.org/web/20060207015516/http://www.rightsite.ru/](Site in Web.archive)
++ [Site in Web.archive](https://web.archive.org/web/20060207015516/http://www.rightsite.ru/)
 ***
 ## Languages:
-* English - Intermediate
+* English - Upper-intermediate
+[ef cert](english.png)
 * Russian - Native
