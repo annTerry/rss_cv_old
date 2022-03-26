@@ -10,14 +10,14 @@
 * __LinkedIn:__ [Anna Kniazeva](https://www.linkedin.com/in/anna-kniazeva-23b732234/)
 
 ## About Me:
-Web-developer with experience and ability to work with old projects, foreign and legacy code seeking for Junior Frontend develops position.  I have been programming from my childhood, and now have more then 15 years of experience in codding on different languages. 
+Web-developer with experience and ability to work with old projects, foreign and legacy code seeking for Junior Frontend development position.  I have been programming from my childhood, and now have more then 15 years of experience in codding on different languages, adding new fetures and fixing bugs in dozens of applications. I'd want to be useful in improve quality and functionality of applications in modern company.
 
 ***
 ## Skills:
 * HTML
 * CSS
 * JavaScript Basics (Ajax, jQuery, mootools)
-* Java Basics (jsp, velocity, vaadin, JSON processing)
+* Java Basics (jsp, velocity, vaadin, JSON processing, Android Apps)
 * Python Basics
 * PHP, Perl, MySQL
 * IntelliJ IDEA
