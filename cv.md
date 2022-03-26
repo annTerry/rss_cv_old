@@ -52,5 +52,5 @@ let res=[];
 ***
 ## Languages:
 * English - Upper-intermediate
-![ef cert](english.png)
+* ![ef cert](english.png)
 * Russian - Native
